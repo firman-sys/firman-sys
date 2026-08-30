@@ -1,8 +1,6 @@
 <div align="center">
 
-🕹️ 𝑨𝑹𝑪𝑨𝑫𝑬 𝑯𝑸
-
-🟡 PAC-MAN • 🐍 SNAKE • 👾 CODE
+Cyber Security Enthution
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=INSERT+COIN...;WELCOME+TO+MY+ARCADE;CODE.+PLAY.+REPEAT.;GAME+ON!+%F0%9F%8E%AE" alt="Typing animation"/>
 
