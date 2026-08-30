@@ -112,31 +112,34 @@ I'm currently exploring:
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+---
 
-<img src="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-🐍 SNAKE MODE
-
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│             🟩🟩🟩                                           │
-│                   🟩🟩🟩                                     │
-│                         🟩🟩🟩   🍎                           │
-│                               🟩                             │
-│                               🟩                             │
-│                               🟩                             │
-│                                                              │
-│                     SCORE: 1337                              │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+## 🐍 Contribution Snake
 
 <div align="center">
 
-UP ⬆️   DOWN ⬇️   LEFT ⬅️   RIGHT ➡️
+### `> MY CONTRIBUTIONS ARE ALIVE...`
 
-</div>
+<img src="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake.svg" />
+
+<br>
+
+```text
+╔══════════════════════════════════════════════╗
+║              🐍 SNAKE GAME                   ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║        🟩 🟩 🟩 🟩 🟩                       ║
+║                    🟩                        ║
+║                    🟩     🍎                 ║
+║                    🟩                        ║
+║                                              ║
+║              SCORE: 0000                    ║
+║              BEST : 0000                    ║
+║                                              ║
+║          ↑  ↓  ←  →  TO MOVE                ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ---
 
 ## 📈 Contribution Graph
