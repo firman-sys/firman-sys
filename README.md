@@ -117,14 +117,26 @@ I'm currently exploring:
 <img src="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
-⚡ TECH STACK
+🐍 SNAKE MODE
+
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│             🟩🟩🟩                                           │
+│                   🟩🟩🟩                                     │
+│                         🟩🟩🟩   🍎                           │
+│                               🟩                             │
+│                               🟩                             │
+│                               🟩                             │
+│                                                              │
+│                     SCORE: 1337                              │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&perline=8" alt="Tech stack"/>
+UP ⬆️   DOWN ⬇️   LEFT ⬅️   RIGHT ➡️
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
