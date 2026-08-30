@@ -49,17 +49,77 @@ Saya seorang *Developer* yang berfokus membangun proyek interaktif, bereksperime
 
 ## 🟡 PAC-MAN MODE
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  SCORE:  009900               HIGH SCORE: 999999             ║
-║                                                              ║
-║  ████████████████████████████████████████████████████████  ║
-║  █   · · · · ·   █ · · · · · · · █   · · · · · · · ·   █  ║
-║  █ · █████████ · █ · █████████ · █ · █████████████ · █ · █  ║
-║  █ · · ·  🟡  · · · · · 👻 · · · · · · · · · · · · · · █  ║
-║  █ · █████████ · █ · █████████ · █ · █████████████ · █ · █  ║
-║  █   · · · · ·   █ · · · · · · · █   · · · · · · · ·   █  ║
-║  ████████████████████████████████████████████████████████  ║
-║                                                              ║
-║               ★ MISSION / QUEST LOG ★                         ║
-╚══════════════════════════════════════════════════════════════╝
+<div align="center">
+
+<!-- Animasi Pac-Man Berjalan -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pacman Animation"/>
+
+</div>
+
+* 🍒 **Build Cool Things:** Mengembangkan aplikasi & gim web yang interaktif.
+* 💡 **Continuous Learning:** Mempelajari framework/teknologi baru setiap hari.
+* 🧩 **Problem Solving:** Menyelesaikan tantangan logika & algoritma.
+
+---
+
+## 🐍 SNAKE MODE
+
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│              🟩🟩🟩                                          │
+│                    🟩🟩🟩                                    │
+│                           🟩🟩🟩   🍎                        │
+│                                🟩                            │
+│                                🟩                            │
+│                                🟩                            │
+│                                                              │
+│                      SCORE: 1337                             │
+╰──────────────────────────────────────────────────────────────╯
+
+<div align="center">
+
+UP ⬆️   DOWN ⬇️   LEFT ⬅️   RIGHT ➡️
+
+</div>
+
+### 🐍 Contribution Snake
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+---
+
+## 📊 PLAYER STATS & CARTRIDGES
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2BD6&text_color=FFFFFF" height="170" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="170" alt="Top languages"/>
+
+</div>
+
+### 💿 Project Cartridges
+
+| Project | Type | Status |
+| :--- | :--- | :--- |
+| 🟡 **Pac-Man Web Game** | Game | 🟢 Online |
+| 🐍 **Snake Arcade** | Game | 🟢 Online |
+| 🤖 **AI Assistant Project** | AI | 🟡 Building |
+| 🌐 **Personal Portfolio** | Web | 🔵 In Progress |
+
+---
+
+<div align="center">
+
+🎮 **GAME OVER? NO. NEXT LEVEL.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2bd6,50:17175a,100:00f5ff&height=120&section=footer&animation=twinkling" width="100%"/>
+
+⭐ *If you like my projects, consider giving them a star!*
+
+© 2026 [NAMA KAMU] • BUILT WITH CODE & COFFEE ☕
+
+</div>
