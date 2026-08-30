@@ -1,68 +1,217 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hi,%20I'm%20Satria%20Bahari&fontSize=35&fontColor=fff" width="100%" />
-  
-  ### A Web and Mobile Developer
+ <div align="center">
+
+🕹️ 𝑨𝑹𝑪𝑨𝑫𝑬 𝑯𝑸
+
+🟡 PAC-MAN • 🐍 SNAKE • 👾 CODE
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=INSERT+COIN...;WELCOME+TO+MY+ARCADE;CODE.+PLAY.+REPEAT.;GAME+ON!+%F0%9F%8E%AE" alt="Typing animation"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09091a,50:17175a,100:ff2bd6&height=130&section=header&text=GAME%20ON!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
+
 </div>
 
-I'm Satria Bahari, a student majoring in Information Systems at the University of Jambi. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication.
+🕹️ PLAYER PROFILE
 
-I focus on creating web applications that not only provide precise experiences but are also user-friendly. My specialization includes JavaScript and TypeScript, along with frameworks such as React, Vite, and Next.js. As a quick learner and adaptive thinker, I thrive in a dynamic environment where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗          │
+│   ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗         │
+│   ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝         │
+│   ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗         │
+│   ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║         │
+│   ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝         │
+│                                                              │
+│              🟡 PLAYER 01  •  READY TO CODE                 │
+╰──────────────────────────────────────────────────────────────╯
 
-<p align="left">
-  <a href="mailto:satriabaharii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/satriabaharii_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.satriabahari.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@satriabaharii">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=satriabaharii&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/satriabaharii?label=GitHub%20Followers&style=flat" />
-</p>
+🎮 Welcome to my digital arcade.
+I build projects, experiment with technology, and turn ideas into code.
 
----
+👾 ARCADE SELECT
 
-### Core Tech Stacks
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
+<div align="center">
 
-### Other Tech Stacks
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+🟡 PAC-MAN
 
-### Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+🐍 SNAKE
+
+💻 CODE
+
+EAT • RUN • SURVIVE
+
+GROW • DODGE • WIN
+
+BUILD • LEARN • SHIP
+
+🟨 🟨 🟨
+
+🟩 🟩 🟩
+
+⚡ ⚡ ⚡
+
+</div>
+
+🟡 PAC-MAN MODE
+
+╔══════════════════════════════════════════════════════════════╗
+║  SCORE:  009900              HIGH SCORE: 999999              ║
+║                                                              ║
+║  ████████████████████████████████████████████████████████  ║
+║  █   · · · · ·   █ · · · · · · · █   · · · · · · · ·   █  ║
+║  █ · █████████ · █ · █████████ · █ · █████████████ · █ · █  ║
+║  █ · · ·  🟡  · · · · · 👻 · · · · · · · · · · · · · · █  ║
+║  █ · █████████ · █ · █████████ · █ · █████████████ · █ · █  ║
+║  █   · · · · ·   █ · · · · · · · █   · · · · · · · ·   █  ║
+║  ████████████████████████████████████████████████████████  ║
+║                                                              ║
+║                  ★ INSERT COIN ★                             ║
+╚══════════════════════════════════════════════════════════════╝
+
+🎯 Mission
+
+🍒 Build cool things
+
+💡 Learn something new every day
+
+🚀 Turn ideas into projects
+
+🧩 Solve problems
+
+🏆 Keep improving
+
+🐍 SNAKE MODE
+
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│             🟩🟩🟩                                           │
+│                   🟩🟩🟩                                     │
+│                         🟩🟩🟩   🍎                           │
+│                               🟩                             │
+│                               🟩                             │
+│                               🟩                             │
+│                                                              │
+│                     SCORE: 1337                              │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+<div align="center">
+
+UP ⬆️   DOWN ⬇️   LEFT ⬅️   RIGHT ➡️
+
+</div>
+
+⚡ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&perline=8" alt="Tech stack"/>
+
+</div>
+
+📊 PLAYER STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2BD6&text_color=FFFFFF" height="170" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="170" alt="Top languages"/>
+
+</div>
+
+🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+If the snake image doesn't appear, generate it with a GitHub Action such as Platane/snk.
+
+🏆 ACHIEVEMENTS
+
+┌─────────────────────────────────────────────────────────────┐
+│  🥉  FIRST COMMIT              ████████████████████  ✓      │
+│  🥈  BUILD A PROJECT           ████████████████████  ✓      │
+│  🥇  SHIP TO GITHUB            ████████████████████  ✓      │
+│  💎  MASTER NEW TECH            ████████████░░░░░░░░  ...    │
+│  👑  FINAL BOSS                ████░░░░░░░░░░░░░░░░  ...    │
+└─────────────────────────────────────────────────────────────┘
+
+🚀 CURRENT QUEST
+
+player: YOUR_NAME
+status: ONLINE
+class: DEVELOPER
+main_quest:
+  - Build awesome projects
+  - Learn new technologies
+  - Improve every day
+
+side_quests:
+  - Open source
+  - Game development
+  - Automation
+  - UI/UX
+
+power: ███████████████░░░ 85%
+coffee: ☕☕☕☕☕
+
+💿 PROJECT CARTRIDGES
+
+Replace these with your own repositories.
+
+Project
+
+Type
+
+Status
+
+🟡 Pac-Man
+
+Game
+
+🟢 Online
+
+🐍 Snake
+
+Game
+
+🟢 Online
+
+🤖 AI Project
+
+AI
+
+🟡 Building
+
+🌐 Web Project
+
+Web
+
+🔵 In Progress
+
+🌐 CONNECT WITH ME
+
+<div align="center">
+
+
+
+
+
+
+</div>
+
+<div align="center">
+
+🎮 GAME OVER? NO. NEXT LEVEL.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2bd6,50:17175a,100:00f5ff&height=120&section=footer&animation=twinkling" width="100%"/>
+
+⭐ If you like my projects, consider giving them a star!
+
+© 2026 YOUR_NAME • BUILT WITH CODE & COFFEE ☕
+
+</div>
