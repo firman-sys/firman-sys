@@ -1,239 +1,217 @@
-# 👋 Hey, I'm Firman Anugrah
-
 <div align="center">
 
-### `Fullstack Developer` • `Cyber Security Enthusiast` • `Linux User`
+🕹️ 𝑨𝑹𝑪𝑨𝑫𝑬 𝑯𝑸
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+things+with+code+%F0%9F%92%BB;Learning+Cyber+Security+%F0%9F%94%90;Exploring+Linux+%F0%9F%90%A7;Turning+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG" />
+🟡 PAC-MAN • 🐍 SNAKE • 👾 CODE
 
-[![GitHub](https://img.shields.io/badge/GitHub-firman--sys-181717?style=for-the-badge\&logo=github)](https://github.com/firman-sys)
-[![Email](https://img.shields.io/badge/Email-firmananugrah365%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:firmananugrah365@gmail.com)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Firman Anugrah
-username: firman-sys
-role:
-  - Fullstack Developer
-  - Cyber Security Enthusiast
-
-currently_learning:
-  - Web Development
-  - Cyber Security
-  - Linux & System Administration
-
-interests:
-  - Secure Applications
-  - Backend Development
-  - Linux
-  - Open Source
-  - Ethical Hacking
-
-motto: "Build it. Break it. Secure it."
-```
-
-I'm a **Fullstack Developer** who enjoys building web applications while exploring the world of **Cyber Security**.
-
-I love understanding how systems work, finding weaknesses, and learning how to make applications more secure.
-
-> 💡 **My goal:** Build useful software and understand how to protect it.
-
----
-
-## ⚡ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,laravel" />
-</p>
-
-### 🐧 System & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-</p>
-
----
-
-## 🔐 Cyber Security
-
-I'm currently exploring:
-
-```text
-┌─────────────────────────────────────────────┐
-│              CYBER SECURITY                 │
-├─────────────────────────────────────────────┤
-│                                             │
-│  🔎 Web Security                            │
-│  🛡️ Application Security                   │
-│  🐧 Linux & System Security                 │
-│  🌐 Network Fundamentals                    │
-│  🧪 Security Testing                        │
-│  🔐 Secure Coding                           │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-> **Learn → Build → Test → Break → Secure → Repeat**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=firman-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firman-sys&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=INSERT+COIN...;WELCOME+TO+MY+ARCADE;CODE.+PLAY.+REPEAT.;GAME+ON!+%F0%9F%8E%AE" alt="Typing animation"/>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=firman-sys&theme=tokyonight&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09091a,50:17175a,100:ff2bd6&height=130&section=header&text=GAME%20ON!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
 
 </div>
 
----
+🕹️ PLAYER PROFILE
 
-## 🐍 Contribution Snake
----
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗          │
+│   ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗         │
+│   ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝         │
+│   ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗         │
+│   ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║         │
+│   ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝         │
+│                                                              │
+│              🟡 PLAYER 01  •  READY TO CODE                 │
+╰──────────────────────────────────────────────────────────────╯
 
-## 🐍 Contribution Snake
+🎮 Welcome to my digital arcade.
+I build projects, experiment with technology, and turn ideas into code.
+
+👾 ARCADE SELECT
 
 <div align="center">
 
-### `> MY CONTRIBUTIONS ARE ALIVE...`
+🟡 PAC-MAN
 
-<br>
+🐍 SNAKE
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake-dark.svg"
-  />
+💻 CODE
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake.svg"
-  />
+EAT • RUN • SURVIVE
 
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+GROW • DODGE • WIN
 
-<br>
+BUILD • LEARN • SHIP
 
-> 🐍 The snake eats my contributions.
+🟨 🟨 🟨
 
-<br>
+🟩 🟩 🟩
 
-`[ BUILD ]` `→` `[ COMMIT ]` `→` `[ CONTRIBUTION ]` `→` `[ SNAKE ]`
+⚡ ⚡ ⚡
 
 </div>
 
----
----
+🟡 PAC-MAN MODE
 
-## 📈 Contribution Graph
+╔══════════════════════════════════════════════════════════════╗
+║  SCORE:  009900              HIGH SCORE: 999999              ║
+║                                                              ║
+║  ████████████████████████████████████████████████████████  ║
+║  █   · · · · ·   █ · · · · · · · █   · · · · · · · ·   █  ║
+║  █ · █████████ · █ · █████████ · █ · █████████████ · █ · █  ║
+║  █ · · ·  🟡  · · · · · 👻 · · · · · · · · · · · · · · █  ║
+║  █ · █████████ · █ · █████████ · █ · █████████████ · █ · █  ║
+║  █   · · · · ·   █ · · · · · · · █   · · · · · · · ·   █  ║
+║  ████████████████████████████████████████████████████████  ║
+║                                                              ║
+║                  ★ INSERT COIN ★                             ║
+╚══════════════════════════════════════════════════════════════╝
+
+🎯 Mission
+
+🍒 Build cool things
+
+💡 Learn something new every day
+
+🚀 Turn ideas into projects
+
+🧩 Solve problems
+
+🏆 Keep improving
+
+🐍 SNAKE MODE
+
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│             🟩🟩🟩                                           │
+│                   🟩🟩🟩                                     │
+│                         🟩🟩🟩   🍎                           │
+│                               🟩                             │
+│                               🟩                             │
+│                               🟩                             │
+│                                                              │
+│                     SCORE: 1337                              │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 
 <div align="center">
 
-[![Firman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=firman-sys\&theme=tokyo-night\&hide_border=true)](https://github.com/firman-sys)
+UP ⬆️   DOWN ⬇️   LEFT ⬅️   RIGHT ➡️
 
 </div>
 
----
-
-## 🧠 Currently Learning
-
-```text
-Frontend       ███████████████░░░░░  75%
-Backend        ██████████████░░░░░░  70%
-Cyber Security ███████████░░░░░░░░░  55%
-Linux          █████████████░░░░░░░  65%
-```
-
-> Progress isn't about being better than others.
-> It's about being better than yesterday.
-
----
-
-## 🎯 2026 Goals
-
-* [ ] Build my first serious fullstack project
-* [ ] Improve React & Laravel skills
-* [ ] Learn more about Web Security
-* [ ] Deepen Linux knowledge
-* [ ] Learn penetration testing fundamentals
-* [ ] Contribute to Open Source
-* [ ] Build a personal portfolio
-* [ ] Keep coding consistently 🚀
-
----
-
-## 💻 Developer Mode
-
-```bash
-$ whoami
-
-firman-sys
-
-$ cat interests.txt
-
-Fullstack Development
-Cyber Security
-Linux
-Open Source
-Problem Solving
-
-$ echo $MOTTO
-
-"Build it. Break it. Secure it."
-
-$ _
-```
-
----
-
-## 📫 Let's Connect
+⚡ TECH STACK
 
 <div align="center">
 
-If you're interested in **Web Development, Cyber Security, Linux, or Open Source**, feel free to reach out.
-
-📧 **[firmananugrah365@gmail.com](mailto:firmananugrah365@gmail.com)**
-
-<br>
-
-<a href="mailto:firmananugrah365@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&perline=8" alt="Tech stack"/>
 
 </div>
 
----
+📊 PLAYER STATS
 
 <div align="center">
 
-### ⚡ Keep Learning. Keep Building. Keep Securing.
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2BD6&text_color=FFFFFF" height="170" alt="GitHub stats"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0066ff&height=100&section=footer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="170" alt="Top languages"/>
+
+</div>
+
+🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+If the snake image doesn't appear, generate it with a GitHub Action such as Platane/snk.
+
+🏆 ACHIEVEMENTS
+
+┌─────────────────────────────────────────────────────────────┐
+│  🥉  FIRST COMMIT              ████████████████████  ✓      │
+│  🥈  BUILD A PROJECT           ████████████████████  ✓      │
+│  🥇  SHIP TO GITHUB            ████████████████████  ✓      │
+│  💎  MASTER NEW TECH            ████████████░░░░░░░░  ...    │
+│  👑  FINAL BOSS                ████░░░░░░░░░░░░░░░░  ...    │
+└─────────────────────────────────────────────────────────────┘
+
+🚀 CURRENT QUEST
+
+player: YOUR_NAME
+status: ONLINE
+class: DEVELOPER
+main_quest:
+  - Build awesome projects
+  - Learn new technologies
+  - Improve every day
+
+side_quests:
+  - Open source
+  - Game development
+  - Automation
+  - UI/UX
+
+power: ███████████████░░░ 85%
+coffee: ☕☕☕☕☕
+
+💿 PROJECT CARTRIDGES
+
+Replace these with your own repositories.
+
+Project
+
+Type
+
+Status
+
+🟡 Pac-Man
+
+Game
+
+🟢 Online
+
+🐍 Snake
+
+Game
+
+🟢 Online
+
+🤖 AI Project
+
+AI
+
+🟡 Building
+
+🌐 Web Project
+
+Web
+
+🔵 In Progress
+
+🌐 CONNECT WITH ME
+
+<div align="center">
+
+
+
+
+
+
+</div>
+
+<div align="center">
+
+🎮 GAME OVER? NO. NEXT LEVEL.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2bd6,50:17175a,100:00f5ff&height=120&section=footer&animation=twinkling" width="100%"/>
+
+⭐ If you like my projects, consider giving them a star!
+
+© 2026 YOUR_NAME • BUILT WITH CODE & COFFEE ☕
 
 </div>
