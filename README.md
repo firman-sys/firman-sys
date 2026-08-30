@@ -201,44 +201,6 @@ If you're interested in **Web Development, Cyber Security, Linux, or Open Source
 
 </div>
 
-🐍 SNAKE MODE
-
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│             🟩🟩🟩                                           │
-│                   🟩🟩🟩                                     │
-│                         🟩🟩🟩   🍎                           │
-│                               🟩                             │
-│                               🟩                             │
-│                               🟩                             │
-│                                                              │
-│                     SCORE: 1337                              │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-
-<div align="center">
-
-UP ⬆️   DOWN ⬇️   LEFT ⬅️   RIGHT ➡️
-
-</div>
-
-⚡ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&perline=8" alt="Tech stack"/>
-
-</div>
-
-📊 PLAYER STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2BD6&text_color=FFFFFF" height="170" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="170" alt="Top languages"/>
-
-</div>
 
 🐍 CONTRIBUTION SNAKE
 
