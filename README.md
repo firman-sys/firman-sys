@@ -111,7 +111,6 @@ I'm currently exploring:
 ---
 
 ## 🐍 Contribution Snake
-
 ---
 
 ## 🐍 Contribution Snake
@@ -120,26 +119,36 @@ I'm currently exploring:
 
 ### `> MY CONTRIBUTIONS ARE ALIVE...`
 
-<img src="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake.svg" />
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <br>
 
-```text
-╔══════════════════════════════════════════════╗
-║              🐍 SNAKE GAME                   ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║        🟩 🟩 🟩 🟩 🟩                       ║
-║                    🟩                        ║
-║                    🟩     🍎                 ║
-║                    🟩                        ║
-║                                              ║
-║              SCORE: 0000                    ║
-║              BEST : 0000                    ║
-║                                              ║
-║          ↑  ↓  ←  →  TO MOVE                ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+> 🐍 The snake eats my contributions.
+
+<br>
+
+`[ BUILD ]` `→` `[ COMMIT ]` `→` `[ CONTRIBUTION ]` `→` `[ SNAKE ]`
+
+</div>
+
+---
 ---
 
 ## 📈 Contribution Graph
