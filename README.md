@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 🕹️ 𝑨𝑹𝑪𝑨𝑫𝑬 𝑯𝑸
 
@@ -12,51 +12,46 @@
 
 </div>
 
-🕹️ PLAYER PROFILE
+## 🕹️ PLAYER PROFILE
 
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│   ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗          │
-│   ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗         │
-│   ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝         │
-│   ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗         │
-│   ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║         │
-│   ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝         │
+│    ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗          │
+│    ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗         │
+│    ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝         │
+│    ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗         │
+│    ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║         │
+│    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝         │
 │                                                              │
-│              🟡 PLAYER 01  •  READY TO CODE                 │
+│               🟡 PLAYER 01 • READY TO CODE                  │
 ╰──────────────────────────────────────────────────────────────╯
 
-🎮 Welcome to my digital arcade.
-I build projects, experiment with technology, and turn ideas into code.
+🎮 **Halo! Nama Saya [NAMA KAMU]**  
+Saya seorang *Developer* yang berfokus membangun proyek interaktif, bereksperimen dengan teknologi baru, dan mengubah ide kreatif menjadi baris kode yang solid.
 
-👾 ARCADE SELECT
+---
+
+## ⚡ TECH STACK & SKILLS
 
 <div align="center">
 
-🟡 PAC-MAN
-
-🐍 SNAKE
-
-💻 CODE
-
-EAT • RUN • SURVIVE
-
-GROW • DODGE • WIN
-
-BUILD • LEARN • SHIP
-
-🟨 🟨 🟨
-
-🟩 🟩 🟩
-
-⚡ ⚡ ⚡
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&perline=8" alt="Tech stack"/>
 
 </div>
 
-🟡 PAC-MAN MODE
+| Kategori | Teknologi / Skill |
+| :--- | :--- |
+| **Languages** | HTML5, CSS3, JavaScript, Python |
+| **Tools & OS** | VS Code, Git, GitHub, Linux |
+| **Focus** | Frontend Web, Mini Games, Logic & Algorithms |
 
+---
+
+## 🟡 PAC-MAN MODE
+
+```text
 ╔══════════════════════════════════════════════════════════════╗
-║  SCORE:  009900              HIGH SCORE: 999999              ║
+║  SCORE:  009900               HIGH SCORE: 999999             ║
 ║                                                              ║
 ║  ████████████████████████████████████████████████████████  ║
 ║  █   · · · · ·   █ · · · · · · · █   · · · · · · · ·   █  ║
@@ -66,152 +61,5 @@ BUILD • LEARN • SHIP
 ║  █   · · · · ·   █ · · · · · · · █   · · · · · · · ·   █  ║
 ║  ████████████████████████████████████████████████████████  ║
 ║                                                              ║
-║                  ★ INSERT COIN ★                             ║
+║               ★ MISSION / QUEST LOG ★                         ║
 ╚══════════════════════════════════════════════════════════════╝
-
-🎯 Mission
-
-🍒 Build cool things
-
-💡 Learn something new every day
-
-🚀 Turn ideas into projects
-
-🧩 Solve problems
-
-🏆 Keep improving
-
-🐍 SNAKE MODE
-
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│             🟩🟩🟩                                           │
-│                   🟩🟩🟩                                     │
-│                         🟩🟩🟩   🍎                           │
-│                               🟩                             │
-│                               🟩                             │
-│                               🟩                             │
-│                                                              │
-│                     SCORE: 1337                              │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-
-<div align="center">
-
-UP ⬆️   DOWN ⬇️   LEFT ⬅️   RIGHT ➡️
-
-</div>
-
-⚡ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&perline=8" alt="Tech stack"/>
-
-</div>
-
-📊 PLAYER STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2BD6&text_color=FFFFFF" height="170" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="170" alt="Top languages"/>
-
-</div>
-
-🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
-
-</div>
-
-If the snake image doesn't appear, generate it with a GitHub Action such as Platane/snk.
-
-🏆 ACHIEVEMENTS
-
-┌─────────────────────────────────────────────────────────────┐
-│  🥉  FIRST COMMIT              ████████████████████  ✓      │
-│  🥈  BUILD A PROJECT           ████████████████████  ✓      │
-│  🥇  SHIP TO GITHUB            ████████████████████  ✓      │
-│  💎  MASTER NEW TECH            ████████████░░░░░░░░  ...    │
-│  👑  FINAL BOSS                ████░░░░░░░░░░░░░░░░  ...    │
-└─────────────────────────────────────────────────────────────┘
-
-🚀 CURRENT QUEST
-
-player: YOUR_NAME
-status: ONLINE
-class: DEVELOPER
-main_quest:
-  - Build awesome projects
-  - Learn new technologies
-  - Improve every day
-
-side_quests:
-  - Open source
-  - Game development
-  - Automation
-  - UI/UX
-
-power: ███████████████░░░ 85%
-coffee: ☕☕☕☕☕
-
-💿 PROJECT CARTRIDGES
-
-Replace these with your own repositories.
-
-Project
-
-Type
-
-Status
-
-🟡 Pac-Man
-
-Game
-
-🟢 Online
-
-🐍 Snake
-
-Game
-
-🟢 Online
-
-🤖 AI Project
-
-AI
-
-🟡 Building
-
-🌐 Web Project
-
-Web
-
-🔵 In Progress
-
-🌐 CONNECT WITH ME
-
-<div align="center">
-
-
-
-
-
-
-</div>
-
-<div align="center">
-
-🎮 GAME OVER? NO. NEXT LEVEL.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2bd6,50:17175a,100:00f5ff&height=120&section=footer&animation=twinkling" width="100%"/>
-
-⭐ If you like my projects, consider giving them a star!
-
-© 2026 YOUR_NAME • BUILT WITH CODE & COFFEE ☕
-
-</div>
