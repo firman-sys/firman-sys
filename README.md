@@ -1,178 +1,68 @@
 <div align="center">
-
-# Hi, I'm Firman
-
-### 🛡️ Cybersecurity Enthusiast | 💻 Developer | 🐧 Linux Enthusiast
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hi,%20I'm%20Satria%20Bahari&fontSize=35&fontColor=fff" width="100%" />
+  
+  ### A Web and Mobile Developer
 </div>
 
----
+I'm Satria Bahari, a student majoring in Information Systems at the University of Jambi. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication.
 
-## 👨‍💻 About Me
-
-Hello! I'm **Firman**, a developer and cybersecurity enthusiast who loves
-exploring technology, building projects, and understanding how systems work.
-
-I'm particularly interested in **cybersecurity, web development, Linux,
-networking, and programming**. I enjoy learning through hands-on projects,
-experimentation, and solving technical problems.
-
-Currently, I'm focused on improving my programming skills while exploring
-the world of cybersecurity and ethical hacking.
-
-- 🛡️ Exploring **Cybersecurity & Ethical Hacking**
-- 💻 Building projects with **Python & JavaScript**
-- 🐧 Learning more about **Linux & Networking**
-- 🔐 Interested in **Web Security**
-- 🚀 Always learning and experimenting
-- ☕ Coffee + Code = Productivity
-
-> "Learn how it works. Build it. Break it. Secure it."
-
----
-
-## 🛡️ Cybersecurity Interests
+I focus on creating web applications that not only provide precise experiences but are also user-friendly. My specialization includes JavaScript and TypeScript, along with frameworks such as React, Vite, and Next.js. As a quick learner and adaptive thinker, I thrive in a dynamic environment where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Web%20Security-111827?style=for-the-badge&logo=googlechrome&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/CTF-111827?style=for-the-badge&logo=kalilinux&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/OSINT-111827?style=for-the-badge&logo=torproject&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Ethical%20Hacking-111827?style=for-the-badge&logo=hackthebox&logoColor=00FF9C"/>
-
+  <a href="mailto:satriabaharii@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/satriabaharii_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.satriabahari.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@satriabaharii">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=satriabaharii&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/satriabaharii?label=GitHub%20Followers&style=flat" />
 </p>
 
 ---
 
-# 💻 Core Tech Stacks
-
+### Core Tech Stacks
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,cpp,bash" />
-
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
----
-
-# ⚙️ Frameworks & Technologies
-
+### Other Tech Stacks
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,docker" />
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
----
-
-# 🗄️ Databases
-
+### Tools
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" />
-
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
-
----
-
-# 🐧 Operating Systems & Environment
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows" />
-
-</p>
-
----
-
-# 🛠️ Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🛡️ Cybersecurity Lab
-
-A personal laboratory for cybersecurity learning, security experiments,
-Linux, networking, and authorized security testing.
-
-**Technologies:** `Python` `Linux` `Bash`
-
----
-
-### 🌐 Web Development Projects
-
-Building modern web applications while learning about performance,
-security, and scalable development.
-
-**Technologies:** `JavaScript` `React` `Node.js`
-
----
-
-### 🤖 Automation Tools
-
-Small scripts and utilities designed to automate repetitive tasks
-and improve productivity.
-
-**Technologies:** `Python` `Bash` `API`
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=firman-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firman-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=firman-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firman-sys&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</p>
-
----
-
-# 🎯 Currently Learning
-
-```text
-Cybersecurity       █████████████████░░░  85%
-Python              ██████████████████░░  90%
-Linux               ████████████████░░░░  80%
-Networking           ██████████████░░░░░░  70%
-Web Security        ███████████████░░░░░  75%
-JavaScript          ████████████████░░░░  80%
