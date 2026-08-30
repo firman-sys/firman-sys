@@ -1,18 +1,178 @@
-# 💫 About Me:
-👋 Hey! I'm Firman.<br><br>🖥️ Developer | Cybersecurity Enthusiast<br>🛡️ Exploring Cybersecurity, Ethical Hacking & Web Security<br>🐧 Linux & Open Source enthusiast<br>💻 Building projects and learning new technologies<br>🔎 Curious about how systems work behind the scenes<br>🚀 Turning ideas into code<br><br>> Code. Break. Learn. Secure. Repeat. ⚡
+<div align="center">
 
+# Hi, I'm Firman
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/firmandev_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Pirmanne) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:firmananugrah365@gmail.com) 
+### 🛡️ Cybersecurity Enthusiast | 💻 Developer | 🐧 Linux Enthusiast
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=firman-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=firman-sys&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=firman-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=firman-sys&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Hello! I'm **Firman**, a developer and cybersecurity enthusiast who loves
+exploring technology, building projects, and understanding how systems work.
+
+I'm particularly interested in **cybersecurity, web development, Linux,
+networking, and programming**. I enjoy learning through hands-on projects,
+experimentation, and solving technical problems.
+
+Currently, I'm focused on improving my programming skills while exploring
+the world of cybersecurity and ethical hacking.
+
+- 🛡️ Exploring **Cybersecurity & Ethical Hacking**
+- 💻 Building projects with **Python & JavaScript**
+- 🐧 Learning more about **Linux & Networking**
+- 🔐 Interested in **Web Security**
+- 🚀 Always learning and experimenting
+- ☕ Coffee + Code = Productivity
+
+> "Learn how it works. Build it. Break it. Secure it."
+
+---
+
+## 🛡️ Cybersecurity Interests
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Web%20Security-111827?style=for-the-badge&logo=googlechrome&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/CTF-111827?style=for-the-badge&logo=kalilinux&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/OSINT-111827?style=for-the-badge&logo=torproject&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-111827?style=for-the-badge&logo=hackthebox&logoColor=00FF9C"/>
+
+</p>
+
+---
+
+# 💻 Core Tech Stacks
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,cpp,bash" />
+
+</p>
+
+---
+
+# ⚙️ Frameworks & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,docker" />
+
+</p>
+
+---
+
+# 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" />
+
+</p>
+
+---
+
+# 🐧 Operating Systems & Environment
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows" />
+
+</p>
+
+---
+
+# 🛠️ Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🛡️ Cybersecurity Lab
+
+A personal laboratory for cybersecurity learning, security experiments,
+Linux, networking, and authorized security testing.
+
+**Technologies:** `Python` `Linux` `Bash`
+
+---
+
+### 🌐 Web Development Projects
+
+Building modern web applications while learning about performance,
+security, and scalable development.
+
+**Technologies:** `JavaScript` `React` `Node.js`
+
+---
+
+### 🤖 Automation Tools
+
+Small scripts and utilities designed to automate repetitive tasks
+and improve productivity.
+
+**Technologies:** `Python` `Bash` `API`
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=firman-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firman-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=firman-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=firman-sys&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/firman-sys/firman-sys/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+```text
+Cybersecurity       █████████████████░░░  85%
+Python              ██████████████████░░  90%
+Linux               ████████████████░░░░  80%
+Networking           ██████████████░░░░░░  70%
+Web Security        ███████████████░░░░░  75%
+JavaScript          ████████████████░░░░  80%
